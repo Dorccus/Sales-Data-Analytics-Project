@@ -16,8 +16,11 @@ Using Power BI, I developed an interactive Regional Sales Dashboard to uncover t
 3. Compare - Sales growth across years, quarters, and months.
 4. Provide - Interactive dashboards for better decision-making.
 
+**Dataset** <a href="https://github.com/Dorccus/Sales-Data-Analytics-Project/blob/main/Sales-Data.pbix">Project_File</a>
+
 ## Dashboard Features
 The Regional Sales Dashboard created in Power BI includes:
+**Interactive Dashboard** <a href="https://github.com/Dorccus/Sales-Data-Analytics-Project/blob/main/Screenshot%202025-09-03%20101357.png">Dashboard_01</a>
 
 **KPI Cards**
   - Total Sales: **$2.35M**  
